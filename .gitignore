@@ -3,6 +3,13 @@
 .env.local
 .env.*.local
 
+node_modules
+.env
+debug-response.txt
+structure.html
+website.png
+structure.json
+
 # Dependencies
 node_modules/
 npm-debug.log
